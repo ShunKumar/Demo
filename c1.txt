@@ -1,1 +1,7 @@
-sfdvfddfvd
+sfdvfddfvd test
+
+git remote add origin URL
+git push --set-upstream
+git push --all
+
+git push
